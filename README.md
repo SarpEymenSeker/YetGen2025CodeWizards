@@ -1,4 +1,4 @@
-# YetGen2025CodeWizards
+# YetGenCorePhyton2025
 
 ## YetGen2025'1 Coderıyım
 
