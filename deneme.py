@@ -1,10 +1,6 @@
-import turtle
-t = turtle.Turtle()
-
-t.left(85)
-speed = ('fast')
-while True:
-    t.right(170)
-    t.forward(400)
-    t.left(170)
-    t.forward(400)
+def myFun(num):
+    if num & 2 == 0:
+        return True
+    else:
+        False
+print(myFun(4))
